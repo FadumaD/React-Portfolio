@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/FadumaD",
+  "homepage": "https://github.com/FadumaD/React-Portfolio.git",
   "private": true,
   "dependencies": {
     "dotenv": "^16.0.3",
