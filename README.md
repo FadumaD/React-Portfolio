@@ -87,7 +87,7 @@ As this project is part of an individual assignment for the University of Denver
 
 ## Questions
 
-GitHub Link: [https://github.com/dpk5e7](https://github.com/dpk5e7)
+GitHub Link:
 
-Please contact me at Daniel.Kelly@du.edu with any additional questions you may have.
+Please contact me at  with any additional questions you may have.
 # React-Portfolio

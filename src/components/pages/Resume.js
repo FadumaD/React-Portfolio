@@ -1,12 +1,11 @@
-// Component to show two lists of proficiencies and to allow the user to download my resume.
-// The resume is referenced as a static asset under the public folder.
+
 export default function Resume() {
   
   return (
     <div className="sections">
       <section id="Contact">
         <h2>Resume</h2>
-        <p>Download my <a href="/downloads/Kelly_Resume_2022.pdf" alt="Resume" download>resume</a>.</p>
+        <p>Download my resume.</p>
           <h3>Front-End Proficiencies:</h3>
           <ul>
             <li>HTML, CSS, JavaScript</li>
