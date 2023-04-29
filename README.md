@@ -35,7 +35,9 @@ Then npm start
 The use of a web browser.
 
 ### URL
-
+The application runs throught terminal 
+Npm i 
+Npm start and the browser will appear 
 
 ### Screenshots
 <img width="1433" alt="Screenshot 2023-04-28 at 04 54 50" src="https://user-images.githubusercontent.com/117111465/235281157-d629bf83-5dda-44eb-9bcd-0e2553b206ed.png">
