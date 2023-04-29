@@ -61,5 +61,3 @@ This application is covered under the [MIT License](https://opensource.org/licen
 GitHub Link:
 
 Please contact me at  with any additional questions you may have.
-# React-Portfolio
-<img width="1412" alt="Screenshot 2023-04-29 at 04 18 48" src="https://user-images.githubusercontent.com/117111465/235281146-32896297-b03b-44a2-be1b-358d14c33087.png">
