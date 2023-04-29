@@ -83,7 +83,7 @@ This application is covered under the [MIT License](https://opensource.org/licen
 
 ## Contributing
 
-As this project is part of an individual assignment for the University of Denver's Coding Bootcamp, it would be inappropriate for anyone else to contribute to this project.
+
 
 ## Questions
 
